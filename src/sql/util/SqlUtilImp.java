@@ -156,5 +156,8 @@ public class SqlUtilImp implements SqlUtil {
             }
         }
     }
+    public void run(){
+
+    }
 
 }
