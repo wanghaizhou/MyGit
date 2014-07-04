@@ -5,4 +5,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("nihao");
     }
+    public void excute(){
+        System.out.println("");
+    }
 }
