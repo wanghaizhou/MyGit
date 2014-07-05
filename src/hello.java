@@ -28,4 +28,7 @@ public class Hello {
         System.out.println("haohaoxians");
         excute2();;
     }
+    public void  wwww(){
+
+    }
 }
