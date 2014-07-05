@@ -7,36 +7,28 @@ public class Hello {
         new Hello().domyself();
         new Hello().excute();
     }
-
-    public void excute() {
+    public void excute(){
         System.out.println("");
         excute1();
     }
-
-    public void excute1() {
+    public void excute1(){
         System.out.println("");
         excute2();
     }
-
-    public void excute2() {
+    public void excute2(){
         System.out.println("");
         System.out.println("s");
         System.out.println("s2");
     }
-
-    public void domyself() {
+    public void domyself(){
         System.out.println("haohaoxians");
-        excute2();
-        ;
+        excute2();;
     }
-
-    public void domyself2() {
+    public void domyself2(){
         System.out.println("haohaoxians");
-        excute2();
-        ;
+        excute2();;
     }
+    public void  wwww(){
 
-    public void wwww() {
-        System.out.println("haohaoxians");
     }
 }
