@@ -29,6 +29,9 @@ public class Hello {
         excute2();;
     }
     public void  wwww(){
-
+		System.out.println("2014/7/5");
     }
+	public void ww(){
+		
+	}
 }
